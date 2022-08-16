@@ -1,5 +1,4 @@
--def PrimeChecker(a): 
-+def PrimeChecker(a):  
+ +def PrimeChecker(a):  
     # Checking that given number is more than 1  
     if a > 1:  
         # Iterating over the given number with for loop  
